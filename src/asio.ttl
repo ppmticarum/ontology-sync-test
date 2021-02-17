@@ -1,4 +1,4 @@
-@prefix ex: <http://www.example.com> .
+@prefix ex: <http://www.example.com/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 
 ex:Investigador a owl:Ontology .
